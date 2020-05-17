@@ -1,0 +1,175 @@
+
+body {
+  margin: 0;
+  background-color: #120136;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+
+p {
+  width: 600px;
+  margin: auto;
+  color: #b4f2e1;
+  font-size: 1.2rem;
+
+}
+
+h1 {
+  color: #00a1ab;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.28rem;
+  margin: 50px auto 0 auto;
+}
+
+h2,h3 {
+  color: #fcbf1e;
+}
+
+hr {
+  border: dotted #7d5a5a;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+img {
+  padding-top: 1%;
+}
+
+
+.top-container {
+  position: relative;
+  padding-top: 100px
+}
+
+.sun {
+  position: relative;
+  bottom: 338px;
+  left: 10px
+}
+
+.palm {
+  position: absolute;
+  right: 260px;
+  top: 165px
+}
+
+.psm1 {
+  position: relative;
+  right: 30px;
+}
+
+.psm2 {
+  position: relative;
+  right: 70px;
+}
+
+.pspo1 {
+  position: relative;
+  right: 110px;
+}
+
+.pri2 {
+  position: relative;
+  right: 110px;
+}
+
+.itil {
+  position: relative;
+  right: 100px;
+}
+
+.athe {
+  position: relative;
+  top: 10px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.coding {
+float: left;
+  position: relative;
+  margin: auto;
+  right: 50px;
+}
+
+.art {
+  float: left;
+    position: relative;
+    margin: auto;
+    right: 50px;
+}
+
+.web {
+  float: left;
+    position: relative;
+    margin: auto;
+    right: 50px;
+}
+
+.h2p1 {
+  padding-bottom: 20px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.contact-me {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+  box-shadow: 0 10px 14px -7px #276873;
+  background: linear-gradient(to bottom, #e0f7ff 5%, #2597a8 100%);
+  background-color: #e0f7ff;
+  border-radius: 8px;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Merriweather', serif;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 13px 32px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #3d768a;
+}
+
+.btn:hover {
+  background: linear-gradient(to bottom, #2597a8 5%, #e0f7ff 100%);
+  background-color: #2597a8;
+}
+
+.btn:active {
+  position: relative;
+  top: 1px;
+}
+
+.bottom-container {
+  background-color: #00a1ab;
+  font-family: 'Merriweather', serif;
+  font-size: 1rem;
+}
+
+.s {
+  font-size: 1rem;
+  padding: 10px;
+  color: #EAF6F6;
+}
+
+.footer {
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer:hover {
+  color: #EAF6F6;
+}
